@@ -81,3 +81,8 @@ Pour ajouter le support d'un exercice, veillez à :
 - Ajouter un fichier dans le dossier `solvers` nommé `solver_`(le numéro de l'exercice va ici)`.py`,
 - Dans ce fichier, importez les modules nécessaires à sa conception (veuillez néanmoins à éviter de rajouter de nouvelles dépendances au programme),
 - Dans ce fichier, à la suite de ces importations, créez une fonction `solve()`. Celle-ci contient toute la logique du solveur en passant de la récupération de données avec `input()` au traitement des données pour au final afficher les résultats de l'exercice avec `print()`.
+
+
+
+
+Merci d'avoir lu ce petit pacé 😁
